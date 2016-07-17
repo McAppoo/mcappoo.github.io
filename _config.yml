@@ -1,6 +1,0 @@
-gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets]
-
-group :jekyll_plugins do
-   gems:
-  - jekyll-redirect-from
- end
